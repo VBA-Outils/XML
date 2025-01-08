@@ -42,6 +42,7 @@ Option Explicit
 Public Sub ParserFichierXML()
 
     Dim sNomFichier As String, listeBouteille As listeBouteille
+    ' La classe ADODB doit être importée, elle est disponible ici : https://github.com/VBA-Outils/ADODB
     Dim oFichier As New ADODB
     
     ' Sélection du fichier à parser
