@@ -1,4 +1,8 @@
 # XML
+<h1>Licence</h1>
+<p>Ce projet est distribué sous licence MIT. Consultez le fichier LICENSE pour plus de détails.</p>
+<h1>Prérequis</h1>
+<p>Environnement de développement : Microsoft Visual Basic for Applications (VBA)</p>
 <h1>Introduction</h1>
 <p>Ce projet "XML" fornit des exemples d'utilisation des API Microsoft XML3.0 qui permettent de gérer des flux XML (parser, créer / supprimer des noeuds, indenter, etc). Il n'est pas exhaustif quant aux possibilités offertes par ces API.</p>
 <p>Il est composé de 2 exemples :
