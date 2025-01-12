@@ -4,7 +4,7 @@
 <h1>Prérequis</h1>
 <p>Environnement de développement : Microsoft Visual Basic for Applications (VBA)</p>
 <h1>Introduction</h1>
-<p>Ce projet "XML" fornit des exemples d'utilisation des API Microsoft XML3.0 qui permettent de gérer des flux XML (parser, créer / supprimer des noeuds, indenter, etc). Il n'est pas exhaustif quant aux possibilités offertes par ces API.</p>
+<p>Ce projet "XML" fournit des exemples d'utilisation des API Microsoft XML3.0 qui permettent de gérer des flux XML (parser, créer / supprimer des noeuds, indenter, etc). Il n'est pas exhaustif quant aux possibilités offertes par ces API.</p>
 <p>Il est composé de 2 exemples :
 <ul>
   <li>Chargement d'un flux XML, puis appel de la fonction de Parse, et enfin extraction des informations.</li>
